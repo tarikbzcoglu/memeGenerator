@@ -13,7 +13,7 @@
    <img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/reactjs_logo_icon_170805.png" height="60px" alt="trollface" border="0" />
    <hr/>
   </p>
-  📷Screenshot
+  <h3>📷Screenshots</h3>
   <hr/>
 <a href="https://ibb.co/44k1tq3"><img src="https://i.ibb.co/yg24P97/screenshot.jpg" alt="screenshot" border="0" /></a>
 
