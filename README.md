@@ -16,4 +16,8 @@
   📷Screenshot
   <hr/>
 <a href="https://ibb.co/44k1tq3"><img src="https://i.ibb.co/yg24P97/screenshot.jpg" alt="screenshot" border="0" /></a>
+
+<h3>References</h3>
+<li>Bob Ziroll</li>
+<li>Bob Ziroll's React course</li>
 </div>
